@@ -1,0 +1,10 @@
+{
+  "agent_id": "agent_alice",
+  "constitution_hash": "7c30e047acdfa3c4a8adc0858bca70a2375da9801030ef671aa377f3fe66e0bc",
+  "snapshot_hash": "e593a7485df0a6ea59d566aa018d654bb438aab33903db42abc915d1a449119e",
+  "governance_score": 94,
+  "public_key_base64": "erFbgtwep7Jk+35/mtNlMqcHUaomF6zS8Q3gTVaA5qY=",
+  "issued_at": 1781276229.1102679,
+  "expires_at": 1781276529.1102679,
+  "issuer_signature_base64": "+bh5QHfPvjazBOyxm7A0ryXLFrRpmMDJ7fPJaoanhhDOlWMUU2HdrR8Q2dFh0K4P8kozXXd7nRXFPwFd/v1EAA=="
+}

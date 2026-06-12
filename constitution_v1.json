@@ -1,0 +1,15 @@
+{
+  "name": "CAC Demo Constitution",
+  "version": "1.0",
+  "policy_version": "v1",
+  "delegation_chain": ["root"],
+  "evidence_freshness_window_seconds": 3600,
+  "rollback_viable_required": true,
+  "minimum_governance_score": 70,
+  "rules": [
+    "continuity_valid must stay true",
+    "evidence_fresh must stay true",
+    "rollback_viable must stay true",
+    "hidden_commitment must stay false"
+  ]
+}

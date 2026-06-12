@@ -1,0 +1,12 @@
+{
+  "agent_id": "agent_alice",
+  "constitution_hash": "7c30e047acdfa3c4a8adc0858bca70a2375da9801030ef671aa377f3fe66e0bc",
+  "governance_score": 94,
+  "initial_snapshot": {
+    "observer_identity_hash": "genesis_observer",
+    "reference_frame_hash": "genesis_ref",
+    "timestamp": 1781276229.023978
+  },
+  "public_key_base64": "erFbgtwep7Jk+35/mtNlMqcHUaomF6zS8Q3gTVaA5qY=",
+  "validity_seconds": 300
+}

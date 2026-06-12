@@ -1,0 +1,9 @@
+{
+  "agent_id": "agent_alice",
+  "snapshot": {
+    "observer_identity_hash": "genesis_observer",
+    "reference_frame_hash": "genesis_ref",
+    "timestamp": 1781276229.023978
+  },
+  "signature_base64": "xdXSf6+n24p8iDQ+WXUJQamkpD+6SbOGpHN0K8KzGCFK96Z5tJ/szuRob0DTvSenzjAEMfdNSK+KMXYNJFjrBw=="
+}

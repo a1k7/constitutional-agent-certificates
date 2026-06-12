@@ -1,0 +1,6 @@
+#!/bin/bash
+set -e
+python cac_authority.py --genkey
+python agent_cac.py   # creates request
+python cac_authority.py --issue cert_request.json
+python demo.py
